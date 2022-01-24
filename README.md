@@ -13,4 +13,4 @@ Applied BERT based model to extract relations from 29 annual reports of listed c
 - The confusion matrix and network graph are generated in "Confusion_Matrix.ipynb" and "RelationGenerator.ipynb"
 
 ## Acknowledgement
-We have refer to different tutorial throughout the project and we do not own the code. The links are stated when their code are adopted. We would also thanks Dr. K. P. Chow's research team for sharing data. We do not own any of the data.
+We would also thanks Dr. K. P. Chow's research team for sharing their research data. We do not own any of the data. We have also refer to different tutorial throughout the project and we do not own the code. The links are stated when their code are adopted.  
