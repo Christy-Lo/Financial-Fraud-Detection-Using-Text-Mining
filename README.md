@@ -12,8 +12,28 @@ Applied BERT based model to extract relations from 29 annual reports of listed c
 - "Tencent_RE BERT model.ipynb" contains code to implement the github repo of plkmo/BERT-Relation-Extraction (link:https://github.com/plkmo/BERT-Relation-Extraction)
 - The confusion matrix and network graph are generated in "Confusion_Matrix.ipynb" and "RelationGenerator.ipynb"
 
+## Training Data
+We have labelled a total of 2973 sentences with the following labels
+Labels | Number | Percentage
+--- | --- | ---
+Colleague | 475 | 15.98%
+Relative | 61 | 2.05%
+Employee-Company | 407 | 13.69%
+Educated-Institute | 83 | 2.79%
+Founder-Company | 51 | 1.72%
+Shareholder-Company | 143 | 4.81%
+Within-Same-Company-Group | 78 | 2.62%
+Cooperate-Partner | 76 | 2.56%
+Subsidary-ParentCompany | 98 | 3.30%
+Same-Entity | 97 | 3.26%
+Other | 1404 | 47.23%
+
 ## Model Preformance and Visualization
-[table here]
+Train accuracy | 0.8767857
+--- | --- 
+Losses | 0.3696946
+Test F1 score | 0.2857143
+
 
 #### Confusion Matrix
 ![ConfusionMatrix](https://user-images.githubusercontent.com/61792992/150748552-8424be22-fc74-457e-9f44-86aab16f80d5.PNG)
