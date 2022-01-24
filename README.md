@@ -28,7 +28,7 @@ Subsidary-ParentCompany | 98 | 3.30%
 Same-Entity | 97 | 3.26%
 Other | 1404 | 47.23%
 
-## Example of training data
+## Example of data
 Input:
 ```
 Subsidary-ParentCompany(e1,e2)
