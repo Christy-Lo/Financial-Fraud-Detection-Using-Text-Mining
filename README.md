@@ -29,10 +29,10 @@ Same-Entity | 97 | 3.26%
 Other | 1404 | 47.23%
 
 ## Model Preformance and Visualization
-
 We have choosen to train the model with 11 epoch based on the training accuracy, losses and f1 score
-Train accuracy | 0.8767857
+Parameter at Epoch 11|Value
 --- | --- 
+Train accuracy | 0.8767857
 Losses | 0.3696946
 Test F1 score | 0.2857143
 
@@ -42,10 +42,8 @@ Losses|F1 score
 Training Accuracy|
 <img src="https://user-images.githubusercontent.com/61792992/150761572-c6070b03-7247-4db6-b44a-64bd32218841.png" width="700" height="500">|
 
-
 #### Confusion Matrix
-![ConfusionMatrix](https://user-images.githubusercontent.com/61792992/150760319-f3e61d43-152b-4951-abcd-9be6b4b7c260.PNG)
-
+<img src="https://user-images.githubusercontent.com/61792992/150760319-f3e61d43-152b-4951-abcd-9be6b4b7c260.PNG" width="850" height="800">
 
 #### Network Graph
 ![TencentGraph](https://user-images.githubusercontent.com/61792992/150748585-06d4109c-56a1-42ea-a75d-03a25bda3604.png)
