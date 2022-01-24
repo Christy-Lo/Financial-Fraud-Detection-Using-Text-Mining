@@ -36,7 +36,7 @@ Test F1 score | 0.2857143
 
 
 #### Confusion Matrix
-![ConfusionMatrix](https://user-images.githubusercontent.com/61792992/150748552-8424be22-fc74-457e-9f44-86aab16f80d5.PNG)
+![ConfusionMatrix](https://user-images.githubusercontent.com/61792992/150760319-f3e61d43-152b-4951-abcd-9be6b4b7c260.PNG)
 
 
 #### Network Graph
