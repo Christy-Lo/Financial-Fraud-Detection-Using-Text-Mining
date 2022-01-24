@@ -28,6 +28,18 @@ Subsidary-ParentCompany | 98 | 3.30%
 Same-Entity | 97 | 3.26%
 Other | 1404 | 47.23%
 
+## Example of training data
+Input:
+```
+Subsidary-ParentCompany(e1,e2)
+Sentence:  As [E1]Advance Data Services Limited[/E1] is wholly-owned by [E2]Ma[/E2] Huateng, Mr Ma has an interest in these shares as disclosed under the section of “Directors’ Interests in Securities”.
+```
+
+Output:
+```
+Predicted:  Subsidary-ParentCompany(e1,e2)
+```
+
 ## Model Preformance and Visualization
 We have choosen to train the model with 11 epoch based on the training accuracy, losses and f1 score
 Parameter at Epoch 11|Value
