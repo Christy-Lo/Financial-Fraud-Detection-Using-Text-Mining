@@ -44,4 +44,4 @@ Test F1 score | 0.2857143
 
 
 ## Acknowledgement
-We would also thanks Dr. K. P. Chow's research team for sharing their research data. We do not own any of the data. We have also refer to different tutorial throughout the project and we do not own the code. The links are stated when their code are adopted.
+We would like to thanks Dr. K. P. Chow's research team for sharing their research data. We do not own any of the data. We have also refer to different tutorial throughout the project and we do not own the code. The links are stated when their code are adopted.
