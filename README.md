@@ -29,6 +29,8 @@ Same-Entity | 97 | 3.26%
 Other | 1404 | 47.23%
 
 ## Model Preformance and Visualization
+
+We have choosen to train the model with 11 epoch
 Train accuracy | 0.8767857
 --- | --- 
 Losses | 0.3696946
