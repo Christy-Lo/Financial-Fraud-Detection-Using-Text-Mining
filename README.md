@@ -36,6 +36,12 @@ Train accuracy | 0.8767857
 Losses | 0.3696946
 Test F1 score | 0.2857143
 
+Losses|F1 score
+---|---
+<img src="https://user-images.githubusercontent.com/61792992/150761563-155ddc26-ec7b-4b29-ad9a-ef38c8de9810.png" width="700" height="500">| <img src="https://user-images.githubusercontent.com/61792992/150761569-8936b9c2-0fe3-4763-ac68-7279f3960642.png" width="700" height="500">
+Training Accuracy|
+<img src="https://user-images.githubusercontent.com/61792992/150761572-c6070b03-7247-4db6-b44a-64bd32218841.png" width="700" height="500">|
+
 
 #### Confusion Matrix
 ![ConfusionMatrix](https://user-images.githubusercontent.com/61792992/150760319-f3e61d43-152b-4951-abcd-9be6b4b7c260.PNG)
