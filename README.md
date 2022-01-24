@@ -15,10 +15,12 @@ Applied BERT based model to extract relations from 29 annual reports of listed c
 ## Model Preformance and Visualization
 [table here]
 
-[confusion matrix]
+#### Confusion Matrix
+![ConfusionMatrix](https://user-images.githubusercontent.com/61792992/150748552-8424be22-fc74-457e-9f44-86aab16f80d5.PNG)
 
-[relationgraph]
 
+#### Network Graph
+![TencentGraph](https://user-images.githubusercontent.com/61792992/150748585-06d4109c-56a1-42ea-a75d-03a25bda3604.png)
 
 
 ## Acknowledgement
